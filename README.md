@@ -32,4 +32,5 @@ python3 main.py -u https://www.google.com/search? https://www.microsoft.com http
 older.com http://ftp.example.com sub.example.com https://dummy-website.com
 ```
 
-![image](https://github.com/user-attachments/assets/d5cdd6d6-c553-48db-a7c6-20fba42967d8)
+![cli_output](https://github.com/Sharp404/DomainAnalyzer/blob/main/assets/cli_output.png)
+
